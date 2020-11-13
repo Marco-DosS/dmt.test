@@ -4,4 +4,4 @@ This is just a test
 
 new content
 
-may want ot del this at some point
+may want to del this at some point
